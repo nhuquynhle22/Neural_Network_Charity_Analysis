@@ -4,13 +4,13 @@
 
 This assignment consists of three technical analysis deliverables and a written report.
 
-Deliverable 1: Preprocessing Data for a Neural Network Model
+- Deliverable 1: Preprocessing Data for a Neural Network Model
 
-Deliverable 2: Compile, Train, and Evaluate the Model
+- Deliverable 2: Compile, Train, and Evaluate the Model
 
-Deliverable 3: Optimize the Model
+- Deliverable 3: Optimize the Model
 
-Deliverable 4: A Written Report on the Neural Network Model (README.md)
+- Deliverable 4: A Written Report on the Neural Network Model (README.md)
 
 ## Background & Overview
 Using the features in the provided dataset help create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
