@@ -54,6 +54,7 @@ What variable(s) are neither targets nor features, and should be removed from th
 •	"EIN" and "NAME" columns were identifier columns that would not aid in prediction and were dropped as such.
 
 ### Compiling, Training, and Evaluating the Model
+![Compiling, Training, and Evaluating Model](https://user-images.githubusercontent.com/89143725/148663048-5810c801-fc03-4e90-bb5b-541726335db1.png)
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
  
